@@ -1,16 +1,4 @@
-<<<<<<< HEAD
+Aws
 alexander
-Aws
 Zakaria
 Aryan
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-Aryan
-=======
-Aws
->>>>>>> be8696cbe55daf5aed8141794200bcb176998e23
-=======
-Zakaria
->>>>>>> a92966df93b178359eb56a49f70e8ced91fe2634
->>>>>>> c335219076653209791dda5c6f09f5d5b7bf85c9
